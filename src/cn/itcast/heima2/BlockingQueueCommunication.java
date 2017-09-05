@@ -23,7 +23,7 @@ public class BlockingQueueCommunication {
 							business.sub(i);
 							
 							System.out.println(111111);
-							
+							System.out.println(444444);
 							
 						}
 						
@@ -33,6 +33,7 @@ public class BlockingQueueCommunication {
 		
 		for(int i=1;i<=50;i++){
 			business.main(i);
+			
 		}
 		
 	}
