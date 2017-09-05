@@ -21,9 +21,8 @@ public class BlockingQueueCommunication {
 					
 						for(int i=1;i<=50;i++){
 							business.sub(i);
-							
 							System.out.println(111111);
-							
+							System.out.println(22222);
 						}
 						
 					}
