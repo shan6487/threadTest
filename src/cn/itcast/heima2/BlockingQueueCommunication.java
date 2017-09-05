@@ -24,7 +24,6 @@ public class BlockingQueueCommunication {
 							
 							System.out.println(111111);
 							
-							
 						}
 						
 					}
