@@ -9,7 +9,7 @@ public class CacheDemo {
 
 	private Map<String, Object> cache = new HashMap<String, Object>();
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println(222222);
 
 	}
 
